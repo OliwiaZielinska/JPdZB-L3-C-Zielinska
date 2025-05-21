@@ -41,3 +41,4 @@ collatz <- function(c0) {
   # Zwracamy cały wektor wynik, zrzutowany na wartości int as.integer().
   return(as.integer(wynik))
 }
+
